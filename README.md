@@ -28,4 +28,9 @@ An advanced AI-powered chatbot built using LLAMA, designed for intelligent conve
 4. Access the Chatbot UI
    Open http://localhost:5000 in your browser.
 
+5. Screenshots for Demo Added as **AIChatBoat.png**
+
+🤝 Contributing
+Want to improve this project? Feel free to submit a pull request!
+
 
